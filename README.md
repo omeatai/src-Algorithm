@@ -1,6 +1,4 @@
 # src-Algorithm
-src-Algorithm
-
 
 <details>
 <summary>1. Vowel Count </summary>
